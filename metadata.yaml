@@ -1,0 +1,33 @@
+_repo: A-Fearful-Responsibility-and-Other-Stories_20403
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Howells, William Dean
+    aliases:
+    - Howells, William D. (William Dean)
+    - Howells, W. D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+description: Contents. -- A fearful responsibility. -- At the sign of the savage.
+  -- Tonelli's marriage.
+gutenberg_issued: '2007-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20403'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Manners and customs -- Fiction'
+- !lcc 'PS'
+tableOfContents: A fearful responsibility -- At the sign of the savage -- Tonelli's
+  marriage.
+title: A Fearful Responsibility and Other Stories
+url: http://www.gutenberg.org/ebooks/20403
